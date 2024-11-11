@@ -111,6 +111,15 @@ const Navbar = () => {
                 <i className="fab fa-linkedin"></i>
               </a>
             </li>
+            <li className="social-icons-facebook">
+              <a
+                href="https://github.com/Abdul-kader-Midlaj1"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="fa-brands fa-github"></i>
+              </a>
+            </li>
           </ul>
           <button className="navbar-toggler" id="navbar-toggler" type="button">
             <span></span>
