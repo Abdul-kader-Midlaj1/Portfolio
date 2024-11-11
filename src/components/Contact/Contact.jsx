@@ -49,10 +49,18 @@ export const Contact = () => {
             <ul className="social-icons justify-content-center justify-content-md-start ">
               <li className="social-icons-github">
                 <Link
-                  to="nkedin.com/in/abdul-kader-midlaj-256695255"
+                  to="https://www.linkedin.com/in/abdul-kader-midlaj-256695255/"
                   target="_blank"
                 >
                   <i className="fab fa-linkedin"></i>
+                </Link>
+              </li>
+              <li className="social-icons-github">
+                <Link
+                  to="https://github.com/Abdul-kader-Midlaj1"
+                  target="_blank"
+                >
+                  <i className="fa-brands fa-github"></i>
                 </Link>
               </li>
             </ul>
