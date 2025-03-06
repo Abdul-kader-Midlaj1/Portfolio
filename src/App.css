@@ -15728,7 +15728,7 @@ html[dir="rtl"] .nav.nav-separator .nav-item + .nav-item .nav-link:after {
 }
 
 .hero-wrap .hero-bg {
-  background-attachment: fixed;
+  background-attachment: inherit;
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;

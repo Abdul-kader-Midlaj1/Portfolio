@@ -6,6 +6,96 @@ export const Skills = () => {
       <div className="container px-lg-5">
         <h2 className="text-6 fw-600 mt-4 mb-4 ">My Skills</h2>
         <div className="row gx-5">
+        <div className="col-md-6">
+            <p className=" fw-500 text-start mb-2 text-dark">
+              SEO <span className="float-end">95%</span>
+            </p>
+            <div className="progress progress-sm mb-4 ">
+              <div
+                className="progress-bar"
+                role="progressbar"
+                aria-valuenow="95"
+                aria-valuemin="0"
+                aria-valuemax="100"
+                style={{ width: "95%" }}
+              ></div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <p className=" fw-500 text-start mb-2 text-dark">
+              Wordpress <span className="float-end">95%</span>
+            </p>
+            <div className="progress progress-sm mb-4 ">
+              <div
+                className="progress-bar"
+                role="progressbar"
+                aria-valuenow="95"
+                aria-valuemin="0"
+                aria-valuemax="100"
+                style={{ width: "95%" }}
+              ></div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <p className=" fw-500 text-start mb-2 text-dark">
+              Google Analytics <span className="float-end">95%</span>
+            </p>
+            <div className="progress progress-sm mb-4 ">
+              <div
+                className="progress-bar"
+                role="progressbar"
+                aria-valuenow="95"
+                aria-valuemin="0"
+                aria-valuemax="100"
+                style={{ width: "95%" }}
+              ></div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <p className=" fw-500 text-start mb-2 text-dark">
+            Microsoft Clarity <span className="float-end">70%</span>
+            </p>
+            <div className="progress progress-sm mb-4 ">
+              <div
+                className="progress-bar"
+                role="progressbar"
+                aria-valuenow="60"
+                aria-valuemin="0"
+                aria-valuemax="100"
+                style={{ width: "70%" }}
+              ></div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <p className=" fw-500 text-start mb-2 text-dark">
+            Google Search Console <span className="float-end">70%</span>
+            </p>
+            <div className="progress progress-sm mb-4 ">
+              <div
+                className="progress-bar"
+                role="progressbar"
+                aria-valuenow="60"
+                aria-valuemin="0"
+                aria-valuemax="100"
+                style={{ width: "70%" }}
+              ></div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <p className=" fw-500 text-start mb-2 text-dark">
+            Google My Business Clarity <span className="float-end">70%</span>
+            </p>
+            <div className="progress progress-sm mb-4 ">
+              <div
+                className="progress-bar"
+                role="progressbar"
+                aria-valuenow="60"
+                aria-valuemin="0"
+                aria-valuemax="100"
+                style={{ width: "70%" }}
+              ></div>
+            </div>
+          </div>
           <div className="col-md-6">
             <p className=" fw-500 text-start mb-2 text-dark">
               HTML/CSS <span className="float-end">95%</span>
@@ -130,6 +220,51 @@ export const Skills = () => {
           <div className="col-md-6">
             <p className=" fw-500 text-start mb-2 text-dark">
               NextJs <span className="float-end">70%</span>
+            </p>
+            <div className="progress progress-sm mb-4 ">
+              <div
+                className="progress-bar"
+                role="progressbar"
+                aria-valuenow="60"
+                aria-valuemin="0"
+                aria-valuemax="100"
+                style={{ width: "70%" }}
+              ></div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <p className=" fw-500 text-start mb-2 text-dark">
+            Web Hosting <span className="float-end">70%</span>
+            </p>
+            <div className="progress progress-sm mb-4 ">
+              <div
+                className="progress-bar"
+                role="progressbar"
+                aria-valuenow="60"
+                aria-valuemin="0"
+                aria-valuemax="100"
+                style={{ width: "70%" }}
+              ></div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <p className=" fw-500 text-start mb-2 text-dark">
+            Cloudflare <span className="float-end">70%</span>
+            </p>
+            <div className="progress progress-sm mb-4 ">
+              <div
+                className="progress-bar"
+                role="progressbar"
+                aria-valuenow="60"
+                aria-valuemin="0"
+                aria-valuemax="100"
+                style={{ width: "70%" }}
+              ></div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <p className=" fw-500 text-start mb-2 text-dark">
+            Cpanel <span className="float-end">70%</span>
             </p>
             <div className="progress progress-sm mb-4 ">
               <div
