@@ -51,7 +51,7 @@ export const Services = () => {
                   <div className="featured-box-icon text-primary  shadow-sm rounded bg-white">
                     <i className="fas fa-globe"></i>
                   </div>
-                  <h3 className="">Web Page Optimizations</h3>
+                  <h3 className="">Search Engine Optimization</h3>
                   <p className="mb-0 ">
                     Web page performance optimizations are techniques and best
                     practices used to improve the speed, responsiveness, and
