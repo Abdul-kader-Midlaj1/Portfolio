@@ -8,7 +8,7 @@ export const Footer = () => {
       <div className="row">
         <div className="text-center text-lg-start">
           <p className="mb-3 mb-lg-0">
-            Copyright © 2024{" "}
+            Copyright © 2025{" "}
             <Link to='' className="fw-500">Web Tech Coding</Link>. All
             Rights Reserved.{" "}
           </p>
