@@ -20,10 +20,10 @@ export const About = ({ScrollRef}) => {
               Developer & SEO Specialist{" "}
             </h2>
             <p>
-              <strong>Front-End UI Developer & SEO Specialist</strong>
+              <strong>Web Developer & SEO Specialist</strong>
             </p>
             <p className="">
-            A results-driven Web Developer with 2 years of experience in front-end  using HTML, CSS, JavaScript, React, WordPress, and PHP. Skilled in creating seamless user experiences and passionate about SEO and digital marketing. Strong understanding of SEO best practices, keyword research, and optimization techniques. Eager to combine web development and SEO expertise to improve website performance and drive growth. Seeking a challenging role to contribute to a digital marketing team's success.
+           A results-driven Web Developer with 2+ years of experience in front-end  using HTML, CSS, JavaScript, React, WordPress, and PHP. Skilled in creating seamless user experiences and passionate about SEO and digital marketing. Strong understanding of SEO best practices, keyword research, and optimization techniques. Eager to combine web development and SEO expertise to improve website performance and drive growth. Seeking a challenging role to contribute to a digital marketing team's success.
               <br />
               <strong> Specialties:</strong> SEO , Responsive Design , Wordpress  , PHP , MYSQL , Google Analytics, Microsoft Clarity, Google Search Console, Google My Business Clarity
               ,ReactJS, NodeJS , MongoDB , HTML5, CSS3, SCSS, TailwindCSS , Figma, JIRA, Git, Web Hosting, Cloudflare, Cpanel
