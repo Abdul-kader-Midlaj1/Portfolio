@@ -46,7 +46,7 @@ export const About = ({ScrollRef}) => {
                 </li>
               </ul>
               <a
-                href="Naseem_Ahmad_CV.pdf"
+                href="CV-Abdul kader Midlaj.pdf"
                 download=""
                 className="btn btn-primary rounded-pill"
               >

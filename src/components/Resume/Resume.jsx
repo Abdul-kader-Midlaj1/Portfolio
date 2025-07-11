@@ -19,7 +19,19 @@ export const Resume = () => {
             <h2 className="text-6 fw-600 mb-4 ">My Experience</h2>
             <div className="bg-white  rounded p-4 mb-4 bg-white border">
               <p className="badge bg-primary text-2 fw-400">
-              04/2024 - 08/2024
+              10/2024 - present
+              </p>
+              <h3 className="text-5 ">SEO Specialist</h3>
+              <p className="text-danger">Hiba Al Ghadeer LLC</p>
+              <p className="mb-0 ">
+              Leading SEO strategy to increase organic visibility, traffic, and conversions across key pages and products.
+Performing in-depth keyword research, competitive analysis, and content gap audits to guide on-page and content optimization efforts.
+Optimizing site structure, internal linking, and metadata to improve crawlability and search engine indexing
+              </p>
+            </div>
+            <div className="bg-white  rounded p-4 mb-4 bg-white border">
+              <p className="badge bg-primary text-2 fw-400">
+              04/2024 - 10/2024
               </p>
               <h3 className="text-5 ">UI Developer</h3>
               <p className="text-danger">Quara AI Pvt. Ltd</p>
