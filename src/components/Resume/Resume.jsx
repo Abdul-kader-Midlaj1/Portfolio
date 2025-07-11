@@ -21,7 +21,7 @@ export const Resume = () => {
               <p className="badge bg-primary text-2 fw-400">
               10/2024 - present
               </p>
-              <h3 className="text-5 ">SEO Specialist</h3>
+              <h3 className="text-5 ">SEO Specialist,Web Developer</h3>
               <p className="text-danger">Hiba Al Ghadeer LLC</p>
               <p className="mb-0 ">
               Leading SEO strategy to increase organic visibility, traffic, and conversions across key pages and products.

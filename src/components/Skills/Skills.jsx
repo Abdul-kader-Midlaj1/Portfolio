@@ -38,6 +38,21 @@ export const Skills = () => {
           </div>
           <div className="col-md-6">
             <p className=" fw-500 text-start mb-2 text-dark">
+              Shopify <span className="float-end">95%</span>
+            </p>
+            <div className="progress progress-sm mb-4 ">
+              <div
+                className="progress-bar"
+                role="progressbar"
+                aria-valuenow="95"
+                aria-valuemin="0"
+                aria-valuemax="100"
+                style={{ width: "95%" }}
+              ></div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <p className=" fw-500 text-start mb-2 text-dark">
               Google Analytics <span className="float-end">95%</span>
             </p>
             <div className="progress progress-sm mb-4 ">
