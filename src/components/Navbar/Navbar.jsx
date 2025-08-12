@@ -89,6 +89,17 @@ const Navbar = () => {
               </li>
               <li className="nav-item">
                 <Link
+                  to="few-works"
+                  className="nav-link "
+                  style={{ cursor: "pointer" }}
+                  spy={true}
+                  smooth={true}
+                >
+                  Few Works
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link
                   to="contact"
                   className="nav-link "
                   style={{ cursor: "pointer" }}

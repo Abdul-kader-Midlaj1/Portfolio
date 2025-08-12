@@ -10,6 +10,7 @@ import { Resume } from "./components/Resume/Resume";
 import { Skills } from "./components/Skills/Skills";
 import { Contact } from "./components/Contact/Contact";
 import { Footer } from "./components/Footer/Footer";
+import FewWorks from "./components/FewWorks/FewWorks";
 
 function App() {
   const theme = useContext(themeContext);
@@ -52,6 +53,7 @@ function App() {
               <Services />
               <Resume />
               <Skills />
+              <FewWorks />
               <Contact />
               {/* <!-- <section id="portfolio" className="section bg-light">
                 <div className="container px-lg-5">
