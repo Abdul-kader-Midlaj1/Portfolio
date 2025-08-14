@@ -10,6 +10,7 @@ const FewWorks = () => {
     "https://portfolio-abdul-kader-midlaj.vercel.app/",
     "https://nextsolution-liard.vercel.app/",
     "https://website-front-pi.vercel.app/",
+    "https://translator-eight-inky.vercel.app/",
     "https://sporttea.in/",
     "https://futurebank-rust.vercel.app/",
     "https://loyality-gamma.vercel.app/",
